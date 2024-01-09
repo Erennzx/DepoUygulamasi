@@ -1,3 +1,3 @@
-# parcaDepolamaUygulaması
+# Parça Depolama Uygulaması
 
-c# da yaptığım basit bir depolama uygulaması.
+-- C# da yaptığım basit bir parça depolama uygulaması, veri ekleyip silebilir ayrıca eklediğimiz veriyi yeni bir veri ile güncelleyebildiğimiz bir uygulamadır.
